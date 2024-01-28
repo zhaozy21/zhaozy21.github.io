@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Mechatronic
+role: Ph.D. Candidate in Mechatronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -41,7 +41,7 @@ interests:
 education:
   courses:
     - course: PhD in Mechatronic Engineering
-      institution: Tsinghua University
+      institution: Tsinghua University　( Supervisor - Prof. Chuxiong Hu )
       year: 2021-Present.
     - course: BSc in Computer Science (minor)
       institution: Tsinghua University
@@ -152,7 +152,7 @@ My research interests include intelligent control, robotics, and motor-driving m
 
 Beyond academia, I also like outdoor activities, including cycling, mountain climbing, and hiking. These pursuits fuel my creativity and physical well-being.
 
-{{< icon name="download" pack="fas" >}} Open my [resumé](uploads/resume.pdf).
+{{< icon name="download" pack="fas" >}} Open [my resumé](uploads/resume.pdf).
 
 
 

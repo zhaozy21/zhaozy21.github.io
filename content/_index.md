@@ -150,8 +150,8 @@ sections:
     id: myAwards 
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
-      subtitle:
+      title: 'Main Honors　　\& Awards'
+      subtitle: Refer to [{{< icon name="file" pack="fas" >}}my resumé](uploads/resume.pdf) for all honors and rewards.
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -168,10 +168,10 @@ sections:
           icon: 
           organization: Ministry of Education of the People's Republic of China
           organization_url: http://www.moe.gov.cn/
-          title: National Scholarship
+          title: National Scholarship for Postgraduates (Top 2%) 
           url: 
           
-        - certificate_url: publication/ICIEA/best.png
+        - certificate_url: publication/iciea/best.png
           date_end: ''
           date_start: '2023-08-19'
           description: ''
@@ -188,7 +188,7 @@ sections:
           icon: 
           organization: Meituan
           organization_url: https://www.meituan.com/en-US/about-us
-          title: Special Prize (First Place) of Meituan Cup 23rd Electronic Design Competition
+          title: Special Prize (1st Place) of Meituan Cup 23rd Electronic Design Competition
           url: 
             
         - certificate_url: myprojects/project_car/TI_prize.jpg
@@ -208,7 +208,7 @@ sections:
           icon: 
           organization: Beijing Municipal Education Commission
           organization_url: https://jw.beijing.gov.cn/
-          title: Outstanding Graduates of Beijing
+          title: Beijing Outstanding Undergraduate Award (Top 5%) 
           url: ''
           
         - certificate_url: awards/qhyl.jpg
@@ -218,7 +218,7 @@ sections:
           icon: 
           organization: Tsinghua University
           organization_url: https://www.tsinghua.edu.cn/en/
-          title: Excellent Graduates of Tsinghua University
+          title: Tsinghua Excellent Undergraduate Award (Top 10%)
           url: ''
           
         - certificate_url: awards/yxlw.jpg
