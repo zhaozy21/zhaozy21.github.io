@@ -41,7 +41,7 @@ interests:
 education:
   courses:
     - course: PhD in Mechatronic Engineering
-      institution: Tsinghua University　( Supervisor - Prof. Chuxiong Hu )
+      institution: 'Tsinghua University　( Supervisor: Prof. Chuxiong Hu )'
       year: 2021-Present.
     - course: BSc in Computer Science (minor)
       institution: Tsinghua University
@@ -69,7 +69,7 @@ skills:
         icon_pack: fas
         
       - name: Embedded Development
-        description: 'Linux; ROS; ARM; FPGA; PCB design'
+        description: 'Linux; ROS; ARM; FPGA; PCB design & assembly'
         percent: 80
         icon: microchip
         icon_pack: fas

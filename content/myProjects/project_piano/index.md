@@ -1,5 +1,5 @@
 ---
-title: The Piano Rhythm Game Machine
+title: PRGM — The Piano Rhythm Game Machine
 date: '2019-09-02'
 summary: 🎹 Introducing the "Piano Rhythm Game Machine" – where Beethoven meets the 21st Century in a symphony of tech and tunes! 🎶
 authors:

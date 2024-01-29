@@ -27,7 +27,7 @@ publication_short: "IEEE Transactions on Industrial Informatics ( Volume: 19, Is
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Published in *IEEE Transactions on Industrial Informatics*, Vol. 19, No. 5, pp. 6525-6536, May 2023. [View Full Text.](https://ieeexplore.ieee.org/document/9895363)
+summary: Published in *IEEE Transactions on Industrial Informatics*. (SCI/EI, **IF=12.3**). [View Full Text.](https://ieeexplore.ieee.org/document/9895363)
 
 tags: []
 #- Source Themes

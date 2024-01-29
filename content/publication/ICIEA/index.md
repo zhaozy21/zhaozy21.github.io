@@ -33,7 +33,7 @@ publication_short: 2023 IEEE 18th Conference on Industrial Electronics and Appli
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: '{{< icon name="trophy" pack="fas" >}} * **This work has won the Best Paper Award in _2023 IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)_. [View Certificate.](publication/iciea/best.png)**'
+summary: '{{< icon name="trophy" pack="fas" >}} * This work has won the **<font color="#dd0000">Best Paper Award</font>** in _2023 IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)_. [View Certificate.](publication/iciea/best.png)'
 
 
 tags: []

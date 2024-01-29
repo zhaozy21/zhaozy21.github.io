@@ -1,5 +1,5 @@
 ---
-title: Projects on Smart Car Competitions
+title: Predominance in Smart Car Competitions
 date: '2021-12-12'
 summary: Smart car projects involve the development of autonomous vehicles performing complex tasks such as self-perception, decision-making, planning, and control. Ziyan Zhao is capable of independently developing a complete smart car system.
 authors:
@@ -30,7 +30,8 @@ The smart car project involves designing and programming a vehicle to autonomous
       - Structural Design
   - Hardware Circuit
     - Controller
-      - STM32 Microcontroller
+      - Microcontroller
+      - Peripherals
       - Interfaces and Pins
     - Drivers
       - H-bridge Motor Driver
@@ -57,7 +58,7 @@ The smart car project involves designing and programming a vehicle to autonomous
 The design, as outlined in the mindmap, includes:
 
 - Structure: A chassis equipped with Mecanum wheels for maneuverability, powered by a lithium polymer battery and managed by an efficient power system.
-- Hardware: Centralized around an STM32 microcontroller, the car features an H-bridge motor driver for precise motor control, and sensors including infrared for line tracking and a gyroscope for stability.
+- Hardware: Centralized around a TI or ST microcontroller, the car features an H-bridge motor driver for precise motor control, and sensors including infrared for line tracking and a gyroscope for stability.
 - Software: Focuses on developing a robust tracking algorithm and body control systems, ensuring precise sensor data processing and effective vehicle posture and speed management.
 - Debugging: Involves iterative software and hardware testing, utilizing an integrated development environment (IDE) for real-time debugging and comprehensive testing of the car's circuit and overall functionality.
 

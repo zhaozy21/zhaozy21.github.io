@@ -13,11 +13,11 @@ main:
   - name: Projects
     url: '#myProjects'
     weight: 30
-  - name: Awards
-    url: '#myAwards'
-    weight: 40
   - name: Skills
     url: '#mySkills'
+    weight: 40
+  - name: Awards
+    url: '#myAwards'
     weight: 50
   - name: Contact
     url: '#contactMe'

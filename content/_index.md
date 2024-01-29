@@ -150,8 +150,8 @@ sections:
     id: myAwards 
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Main Honors　　\& Awards'
-      subtitle: Refer to [{{< icon name="file" pack="fas" >}}my resumé](uploads/resume.pdf) for all honors and rewards.
+      title: 'Featured Honors & Awards'
+      subtitle: Refer to [my resumé {{< icon name="file" pack="fas" >}}](uploads/resume.pdf) for more.
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -191,15 +191,15 @@ sections:
           title: Special Prize (1st Place) of Meituan Cup 23rd Electronic Design Competition
           url: 
             
-        - certificate_url: myprojects/project_car/TI_prize.jpg
-          date_end: ''
-          date_start: '2021-10-01'
-          description: ''
-          icon: 
-          organization: Texas Instruments
-          organization_url: https://www.ti.com/
-          title: First prize of the 11th TI-Cup Digital System Innovation Design Competition
-          url: 
+#        - certificate_url: myprojects/project_car/TI_prize.jpg
+#          date_end: ''
+#          date_start: '2021-10-01'
+#          description: ''
+#          icon: 
+#          organization: Texas Instruments
+#          organization_url: https://www.ti.com/
+#          title: First prize of the 11th TI-Cup Digital System Innovation Design Competition
+#          url: 
           
         - certificate_url: awards/bjyx.jpg
           date_end: ''
@@ -211,15 +211,15 @@ sections:
           title: Beijing Outstanding Undergraduate Award (Top 5%) 
           url: ''
           
-        - certificate_url: awards/qhyl.jpg
-          date_end: ''
-          date_start: '2021-06-02'
-          description: ''
-          icon: 
-          organization: Tsinghua University
-          organization_url: https://www.tsinghua.edu.cn/en/
-          title: Tsinghua Excellent Undergraduate Award (Top 10%)
-          url: ''
+#        - certificate_url: awards/qhyl.jpg
+#          date_end: ''
+#          date_start: '2021-06-02'
+#          description: ''
+#          icon: 
+#          organization: Tsinghua University
+#          organization_url: https://www.tsinghua.edu.cn/en/
+#          title: Tsinghua Excellent Undergraduate Award (Top 10%)
+#          url: ''
           
         - certificate_url: awards/yxlw.jpg
           date_end: ''
