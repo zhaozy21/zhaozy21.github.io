@@ -58,7 +58,7 @@ sections:
   - block: collection
     id: myPublications
     content:
-      title: Publications
+      title: Selected Publications
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
@@ -79,7 +79,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:

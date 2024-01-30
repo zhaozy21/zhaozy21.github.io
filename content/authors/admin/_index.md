@@ -129,9 +129,13 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0002-8692-898X
     
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/zhaozy21
+    link: https://www.linkedin.com/in/ziyan-zhao-1183612b1
+
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/zhaozy21
 
   - icon: envelope
     icon_pack: fas
