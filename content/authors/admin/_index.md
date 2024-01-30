@@ -63,7 +63,7 @@ skills:
         icon_pack: fas
         
       - name: Modeling
-        description: 'MATLAB; Simulink; Solidworks; Unity3D'
+        description: 'MATLAB; Simulink; AutoCAD; Solidworks; Unity3D'
         percent: 60
         icon: cube
         icon_pack: fas

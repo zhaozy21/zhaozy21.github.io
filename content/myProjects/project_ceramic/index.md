@@ -25,7 +25,8 @@ publication_short:
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: A new prototype of ceramic manufacturing equipment.
+summary: Following the sequence of Extrusion-Curing-Milling, we developed a new ceramic manufacturing process which is especially valuable in applications where custom or intricate ceramic components are required.
+
 
 tags: []
 #- Source Themes
@@ -47,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Manufactured ceramic workpieces.'
+  caption: 'Examples of ceramic workpieces.'
   focal_point: ""
   preview_only: false
 
