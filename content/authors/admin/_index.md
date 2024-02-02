@@ -43,13 +43,12 @@ education:
     - course: PhD in Mechatronic Engineering
       institution: 'Tsinghua University　( Supervisor: Prof. Chuxiong Hu )'
       year: 2021-Present.
-    - course: BSc in Computer Science (minor)
-      institution: Tsinghua University
-      year: 2018-2021.
     - course: BEng in Mechanical Engineering
       institution: Tsinghua University
       year: 2017-2021.
-
+    - course: BSc in Computer Science (minor)
+      institution: Tsinghua University
+      year: 2018-2021.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
