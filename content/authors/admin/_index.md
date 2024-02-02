@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 赵　紫 延
+title: Ziyan Zhao
 
 # Name pronunciation (optional)
-name_pronunciation: zhào　　zǐ　yán
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Ziyan
@@ -57,26 +57,26 @@ skills:
   - name: Technical
     items:
       - name: Coding
-        description: 'Python; C++; C#; Java; Verilog HDL'
+        description: 'C++; Python; C#; Java; Verilog HDL; MATLAB.'
         percent: 70
         icon: laptop-code
         icon_pack: fas
         
       - name: Modeling
-        description: 'MATLAB; Simulink; AutoCAD; Solidworks; Unity3D'
+        description: 'Simulink; AutoCAD; Solidworks; Ansys; Maxwell; Unity3D.'
         percent: 60
         icon: cube
         icon_pack: fas
         
       - name: Embedded Development
-        description: 'Linux; ROS; ARM; FPGA; PCB design & assembly'
+        description: 'Linux; ROS; ARM; FPGA; PCB design & assembly.'
         percent: 80
         icon: microchip
         icon_pack: fas
 
-      - name: AI
-        description: 'Common deep learning frameworks'
-        percent: 50
+      - name: AI Frameworks
+        description: 'Pytorch; OpenCV.'
+        percent: 65
         icon: robot
         icon_pack: fas
         
