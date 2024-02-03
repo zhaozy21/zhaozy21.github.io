@@ -91,6 +91,10 @@ In sensorless control of IPMSMs, the fundamental PWM excitation (FPE)-based meth
 
  Simulation and experimental results demonstrate that the rotor position can be estimated with an accuracy of 1 electrical degree under various speed and load. Sensorless closed-loop trajectory tracking control based on the proposed method is realized, which shows an exciting prospect of sensorless control in high-performance servo systems.
 
+{{< figure src="img.png" title="Hardware designd for current derivative measurements and motor drive." >}}
+
+Following are the videos of the experimental results. The first video shows the sensorless control system acting as an elevator tractor. The second video shows the sensorless closed-loop trajectory tracking control results. The third video shows the system acting as a controlled robot joint.
+
 {{< video src="1.mp4" controls="yes">}}
 {{< video src="2.mp4" controls="yes">}}
 {{< video src="3.mp4" controls="yes">}}
