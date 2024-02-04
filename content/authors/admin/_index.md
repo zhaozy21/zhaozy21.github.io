@@ -74,7 +74,7 @@ skills:
         icon_pack: fas
 
       - name: AI Frameworks
-        description: 'Pytorch; OpenCV.'
+        description: 'Pytorch; OpenAI Gym; OpenCV.'
         percent: 65
         icon: robot
         icon_pack: fas
