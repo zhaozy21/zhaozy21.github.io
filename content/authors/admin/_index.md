@@ -29,11 +29,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Motor drive
+  - <b>Control of locomotion robots</b>
+  - <b>Deep reinforcement learning</b>
+  - Precision intelligent control
   - Sensorless control
   - Embedded development
-  - Robotics
-  - Deep Reinforcement learning
 
 
 # Education to show in About widget
@@ -150,9 +150,9 @@ highlight_name: false
 ---
 Hello! My name is Ziyan Zhao. I am currently pursuing a direct Ph.D. program in Mechatronic Engineering at Tsinghua University. I completed my undergraduate studies at the Department Mechanical Engineering, Tsinghua University, in 2021.
 
-My research interests include motor-driving mechanisms, intelligent control, and robotics. I am particularly skilled in hands-on creation, with exceptional abilities in circuitry and hardware design. I enjoy crafting innovative and geeky products in practical.
+My research background is in motor drive and control, and I am now expanding my focus to intelligent robotics, particularly reinforcement learning-based control. I combine theoretical foundations with hands-on expertise in controller design and system integration. I am passionate about developing innovative solutions at the intersection of classical control and modern AI techniques.
 
-Beyond academia, I also like outdoor activities, including cycling, mountain climbing, and hiking. These pursuits fuel my creativity and physical well-being.
+Beyond my technical work, I enjoy outdoor activities like cycling, swimming and hiking, which help maintain my creative thinking and problem-solving abilities.
 
 {{< icon name="download" pack="fas" >}} Open [my resumé](uploads/resume.pdf).
 
