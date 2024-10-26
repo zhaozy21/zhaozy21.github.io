@@ -1,5 +1,5 @@
 ---
-title: "Ceramic Additive-Subtractive Composite Manufacturing Equipment"
+title: "Ceramic Hybrid Additive-Subtractive Manufacturing (HASM) Equipment"
 authors:
   - Ze Wang
   - author_ziyan
@@ -78,9 +78,13 @@ Following the extrusion process, the ceramic object undergoes exposure curing. T
 ### Milling in Subtractive 
 After one or more Extrusion-Exposure process, the object is refined using subtractive manufacturing techniques such as milling. In this stage, a milling machine precisely removes excess material to achieve the desired shape and finish. This step allows for high precision and detail. It's particularly useful for achieving smooth surfaces, accurate dimensions, and specific tolerances that are essential in high-quality ceramic products.
 
-{{< figure src="img_1.png" title="Alpha prototype." >}}
+{{< figure src="HASM.png" title="Extrusion-based HASM process of ceramic parts." >}}
+
+{{< figure src="img_1.png" title="Process planning for the extrusion-based robotic additive manufacturing system." >}}
 
 Having the potential to combine the benefits of both additive and subtractive methods, the additive-subtractive hybrid manufacturing process is especially valuable in applications where custom or intricate ceramic components are required, such as in the medical, aerospace, and automotive industries.
 
+{{< figure src="img_robot.png" title="HASM system based on a seven-degree-of-freedom robotic arm." >}}
 
-![img.png](img.png)
+{{< figure src="img.png" title="HASM system based on a five-axis machine tool." >}}
+
